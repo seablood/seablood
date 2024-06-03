@@ -1,4 +1,5 @@
-![seablood's hub](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?text=seablood's hub)
 
 ![youngjune's github stats](https://github-readme-stats.vercel.app/api?username=seablood&show_icons=true)
 
